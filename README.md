@@ -26,6 +26,6 @@ Automações • APIs • Infraestrutura Web • IA aplicada à engenharia
 
 ### 📫 Contato
 - 📍 Brasil
-- 📧 [gugu1234666@hotmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new&to=gugu1234666@hotmail.com)
+- 📧 [Entre em contato por e-mail](https://mail.google.com/mail/u/0/#inbox?compose=new&to=gugu1234666@hotmail.com)
 
 ---
