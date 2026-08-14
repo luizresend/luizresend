@@ -1,4 +1,4 @@
-### Olá, eu sou o Luiz Gustavo 👋
+### Olá, eu sou o Luiz 👋
 
 **Especialista em JavaScript, Python e Engenharia Reversa**  
 Automações • APIs • Infraestrutura Web • IA aplicada à engenharia
